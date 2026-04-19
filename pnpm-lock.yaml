@@ -7741,4 +7741,4 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.2.14
       react: 19.1.0
-      use-sync-external-store: 1.6.0(react@19.1.0)
+      use-sync-external-store: 1.6.0(react@19.1.0) 
